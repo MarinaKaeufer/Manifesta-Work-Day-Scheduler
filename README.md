@@ -4,7 +4,7 @@ This is a calendar application that allows to capture events for each hour of th
 ![Quiz 5 pic.](./Assets/workdayschedulepic.png)
 
 ## Website:
-
+https://marinakaeufer.github.io/Manifesta-Work-Day-Scheduler/
 
 
 ## Github:
